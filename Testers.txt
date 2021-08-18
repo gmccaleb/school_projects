@@ -1,0 +1,21 @@
+10
+Steve Smith
+56.6,10/11/2019
+Sue Jones
+80.8,01/11/2003
+Li Ying
+90,11/11/2003
+Kun Joom
+10,11/11/2012
+Joe Bush
+75,03/12/2018
+Kim Long
+65.3,02/12/2018
+Fred Ring
+33.3,19/05/2019
+Frank Pearse
+80,11/11/2003
+Helen Hu
+88.8,25/08/2018
+Mark James
+100,12/12/2001
